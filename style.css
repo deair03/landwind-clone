@@ -10,25 +10,10 @@
   
 }
 
-.logo{
-    @apply flex items-center gap-2 h-9;
-}
-.button{
-    @apply font-medium  bg-[#7E3AF2] text-white rounded-lg py-2 px-3 hover:bg-[#5521b5];
-}
 
-.para{
-    @apply font-normal text-[#6B7280] text-xl leading-7 w-full;
-}
 
-.list{
-   @apply flex mb-2 text-base font-light text-[#111827];
-}
 
-.head1{
-  @apply  text-gray-900 tracking-tight font-extrabold text-3xl;
-}
 
-.card{
-  @apply  bg-white shadow-md rounded-lg px-8 pt-6 mb-4 border-[#E5E7EB] border-2 w-[400px] h-[530px] flex flex-col justify-center;
-}
+
+
+
